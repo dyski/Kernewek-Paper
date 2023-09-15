@@ -18,7 +18,8 @@ minify:
 
 languages:
     en:
-        languageName: "English"
+        languageName: "Eng"
+        languageAltTitle: English
         weight: 1
         taxonomies:
           category: categories
@@ -39,18 +40,17 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
+
+    kw:
+        languageName: "Kw"
+        languageAltTitle: Kernewek
         weight: 2
         title: KernewekTitle
         taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
+          category: Rannow
+          tag: Taggow
+          series: Niverow
         profileMode:
             enabled: true
             title: Kernow Bys Vykken
@@ -58,7 +58,7 @@ languages:
             imageTitle: Onan hag oll
             # imageWidth: 120
             # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            subtitle: " Fast | Responsive"
             buttons:
                 - name: Blog
                   url: posts
@@ -66,17 +66,18 @@ languages:
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
         menu:
             main:
-                - name: Archive
-                  url: archives/
+                - name: Kist Kov
+                  url: archives
                   weight: 5
-                - name: FRTags
-                  url: frtags
+                - identifier: about
+                  name: Adro dhe'm
+                  url: /about/
+                  weight: 6
+                - name: Hwilas
+                  url: search/
                   weight: 10
-                - name: FRCategories
-                  url: frcategories
-                  weight: 10
-                - name: FRSeries
-                  url: frseries
+                - name: Tags
+                  url: tags/
                   weight: 10
 
 
