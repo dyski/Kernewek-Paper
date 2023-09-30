@@ -18,9 +18,11 @@ minify:
 
 languages:
     en:
-        languageName: "Eng"
+        languageName: "En"
         languageAltTitle: English
+        languageIcon: eng.jpg
         weight: 1
+        title: Title
         taxonomies:
           category: categories
           tag: tags
@@ -45,6 +47,7 @@ languages:
     kw:
         languageName: "Kw"
         languageAltTitle: Kernewek
+        languageIcon: kw.svg
         weight: 2
         title: KernewekTitle
         taxonomies:

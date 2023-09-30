@@ -1,5 +1,5 @@
 ---
-title: "The Cornish Charter Fragment: Tracing Cornwall's Historical Roots"
+title: "Unveiling the Richness of the Cornish Charter Fragment Poem"
 date: 2023-09-15T19:41:47.844Z
 categories: history
 weight: 0
@@ -27,36 +27,73 @@ UseHugoToc: false
 ---
 
 
-In the annals of Cornwall's rich history, few artifacts are as tantalizing and enigmatic as the **Cornish Charter Fragment**. This fragment, though small in size, carries with it a profound significance in understanding the legal and cultural heritage of Cornwall. In this blog post, we embark on a journey to explore the origins, content, and significance of this remarkable historical artifact.
+The **Cornish Charter Fragment Poem** is a hidden gem in the history of the Cornish language, offering a unique glimpse into the linguistic and cultural heritage of Cornwall. Comprising only 41 lines, this poem holds significant importance for the Cornish language and reveals fascinating aspects of life and relationships in Cornwall during the era it was written. In this blog, we will explore why this poem is crucial to Cornish language history and what interesting elements can be found within its verses.
 
-## Unearthing a Piece of History
+## Preservation of Cornish Language
+The Cornish language, once widely spoken in Cornwall, has faced centuries of decline and near-extinction. The poem, which likely dates back to the 17th century, is one of the few remaining pieces of Cornish literature. Its existence is a testament to the resilience of the language and its people. It serves as a valuable resource for language enthusiasts, historians, and linguists working to revive and understand Cornish.
 
-The Cornish Charter Fragment was discovered in the archives of a local historical society, hidden among a collection of dusty manuscripts. Its humble appearance belies the treasure trove of historical insight it contains. This fragment is believed to date back to the early 14th century, a period of significant legal and social transformation in Cornwall.
+## Social and Cultural Insights
+The poem provides a window into the social and cultural norms of Cornwall during its time of composition. It describes the customs and expectations surrounding courtship, marriage, and interpersonal relationships. This insight into daily life is invaluable for understanding the history and traditions of Cornwall.
 
-## A Glimpse into Medieval Legal Practices
+## Gender Dynamics
+The poem reveals certain gender dynamics of the period. It portrays a woman who appears to have agency in choosing her partner and advises her to use her charm and influence to her advantage. This is a noteworthy departure from the more traditional and patriarchal views prevalent in many societies at the time.
 
-### **Contents of the Fragment**
+## Regional Identity
+Cornwall has a distinct regional identity, and the poem showcases this uniqueness. The reference to the "Tamar Bridge" and the local phrasing and idioms used in the poem exemplify the distinct Cornish dialect and cultural references that contribute to Cornwall's identity.
 
-While the Cornish Charter Fragment is incomplete, the surviving text provides a tantalizing glimpse into medieval legal practices. It contains clauses related to land tenure, taxation, and the rights and responsibilities of landholders. The fragment also sheds light on the intricate web of relationships and obligations that characterized medieval Cornish society.
+## Emphasis on Courtesy and Kindness
+The poem encourages courteous and kind behavior, emphasizing the importance of treating others well. This reflects the Cornish tradition of politeness and respect for others, values that have endured through generations.
 
-### **Language and Script**
+## The Power of Poetry
+Poetry has been a powerful medium for preserving languages and cultures throughout history. This poem is a testament to the enduring power of poetry to convey emotions, traditions, and stories across generations. Its lyrical quality makes it not only a historical artifact but also a piece of art.
 
-The fragment is written in Latin, reflecting the linguistic conventions of legal documents of the time. The ornate script used in its transcription exemplifies the meticulous care with which such documents were produced, attesting to the importance placed on legal matters in medieval Cornwall.
+## Intriguing Narration
+The poem is written in a conversational tone, as if the speaker is offering advice to a friend. This informal style adds a personal touch and makes the poem relatable, even across centuries. The mention of a kiss and playful tone in the closing lines adds a touch of humor and humanity to the text.
 
-## The Significance of the Cornish Charter Fragment
+*In conclusion*, the Cornish Charter Fragment Poem is a precious relic of Cornwall's linguistic and cultural heritage. It sheds light on the Cornish language, social customs, and regional identity, making it a valuable resource for scholars and a source of pride for the Cornish people. This poem serves as a reminder that language is not just a means of communication but also a repository of history, culture, and the collective memory of a community. It is a call to preserve, protect, and celebrate the rich tapestry of the Cornish language and its unique place in the world.
 
-### **Legal Autonomy of Cornwall**
+## Manuscript   
 
-One of the most significant aspects of the Cornish Charter Fragment is its affirmation of Cornwall's legal autonomy. The document highlights the distinct legal traditions and practices that were upheld in Cornwall, separate from those of England. This autonomy was a source of pride for the Cornish people, and the fragment stands as a testament to their efforts to preserve their unique legal identity.
-
-### **Insights into Socio-Economic Relations**
-
-Through its clauses on land tenure and taxation, the fragment provides invaluable insights into the socio-economic relations of medieval Cornwall. It illuminates the complex interplay between landowners, tenants, and the broader community, offering a window into the economic foundations of the region.
-
-## Preserving Cornwall's Legal Heritage
-
-The discovery and study of the Cornish Charter Fragment serve as a poignant reminder of the importance of preserving and studying historical artifacts. This fragment not only deepens our understanding of medieval Cornwall but also underscores the enduring significance of legal traditions in shaping the identity of a region.
-
-In the quiet elegance of its script and the weight of its words, the Cornish Charter Fragment speaks across the centuries, connecting us to a time when Cornwall's legal traditions were etched in parchment. It stands as a testament to the resilience and pride of a community that sought to safeguard its distinctive legal heritage.
-
-As we continue to unravel the mysteries held within this fragment, we are reminded of the enduring legacy of Cornwall's legal traditions and their place in the broader tapestry of British history.
+| Manuscript                       | Kemmyn Cornish Text                  | Translation                             |
+|----------------------------------|--------------------------------------|-----------------------------------------|
+|  golsoug ty coweȝ                | Golsow ty goweth                     | Listen, friend,                         |
+|  byȝ na borȝ meȝ                 | Byth na borth meth                   | Do not be shy!                          |
+|  dyyskyn ha powes                | Diyskynn ha powes                    | Come down and rest                      |
+|  ha ȝymo dus nes                 | Ha dhymmo deus nes                   | and come closer to me                   |
+|  mar coȝes ȝe les                | Mar kodhes dha les                   | if you know what is to your advantage,  |
+|  ha ȝys y rof mowes              | Ha dhis y rov mowes                  | and I will give you a girl,             |
+|  ha fest unan dek                | Ha fest onan deg                     | one who is very beautiful.              |
+|  genes mar a plek                | Genes mara pleg                      | If you like her,                        |
+|  ha, tanha y                     | A tann hi                            | go and get her;                         |
+|  kymmerr y ȝoȝ wrek              | Kemmer hi dhe'th wreg                | take her for your wife.                 |
+|  sconya ȝys ny vek               | Skonya dhis ny veg                   | She will not murmur to refuse you       |
+|  ha ty a vyȝ hy                  | Ha ty a'fydh hi                      | and you will have her                   |
+|  hy a vyȝ gwreg ty da            | Hi a vydh gwre'ti dha                | She will be a good wife                 |
+|  ȝys ȝe synsy                    | Dhis dhe synsi                       | to keep house for you.                  |
+|  pur wyr a lauara                | Pur wir a lavarav                    | I tell you the complete truth.          |
+|  ha govyn worty                  | ha govynn orti                       | Go and ask her                          |
+|  Lemen yȝ torn my as re          | Lemmyn y'th torn my a's re           | Now I give her into your hand           |
+|  ha war an greyȝ my an te        | Ha war an gres my a'n te             | and on the Creed I swear                |
+|  nag usy far                     | Nag usi hy far                       | there is not her equal                  |
+|  an barȝ ma ȝe pons tamar        | A'n barth ma dhe bons Tamar          | from here to the Tamar Bridge.          |
+|  my ad pes worty byȝ da          | My a'th pys orti bydh da             | I beg you to be good to her             |
+|  ag ol ȝe voȝ hy a wra           | Hag oll dha vodh hi a wra            | and she will all you want,              |
+|  rag flog yw ha gensy soȝ        | Rag flogh yw ha gensi doeth          | for she is a child and truthful withal. |
+|  ha gassy ȝe gafus hy boȝ        | ha gas hi dhe gavoes hy bodh         | Go and let her have her own way.        |
+|  kenes mos ȝymmo ymmyug          | Kyn es mos dhymmo ymmewgh            | Before going,                           |
+|  eug alema ha fystynyug          | Ewgh alemma ha fistenewgh            | have a kiss for me!                     |
+|  dallaȝ a var infreȝ dar war     | Dalleth a-varr yn freth darwar       | Go away and be quick!                   |
+|  oun na porȝo                    | Own na borthho                       | Begin promptly, eagerly. Take care      |
+|  ef emsettye worȝesy             | Ev omsettya orthis sy                | to make him nervous                     |
+|  kam na veȝo                     | kamm na vedho                        | so that he dare not                     |
+|  mar aȝ herg ȝys gul nep tra     | Mara'th ergh dhis gul neb tra        | oppose you at all.                      |
+|  lauar ȝesy byȝ ny venna         | Lavar dhiso byth ny vynnav           | If he bids you do something,            |
+|  lauar ȝoȝo gwra mar mennyȝ      | Lavar dhodho gwrav mar mynnydh       | say to yourself, "I never will."        |
+|  awos a gallo na wra tra vyȝ     | Awos a allo ny wra travyth           | Say to him "I will do it if you wish."  |
+|  in vrna yȝ sens ȝe ves meystres | Y'n eur na y'th syns dhe vos mestres | For all he can, he will do nothing.     |
+|  hedyr vywy hag harluȝes         | Hedra vywi hag arlodhes              | Then he will esteem you as Mistress     |
+|  cas o ganso re nofferen         | Kas o ganso re'n Oferenn             | and Lady as long as you live.           |
+|  curtes yw ha deboner            | Kortes yw ha deboner                 | Courteous and kind is he                |
+|  ȝys dregyn ny wra               | Dhis dregynn ny wra                  | He will not do you any harm             |
+|  mar an kefyȝ in danger          | Mara'n kevydh yn danjer              | If you (can) enthral him                |
+|  sense fast indella              | Syns ev fast yndella                 | hold him tightly so!                    |

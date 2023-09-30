@@ -87,6 +87,7 @@
                         <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
                             aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
                             {{- if (and $.Site.Params.displayFullLangName (.Language.LanguageName)) }}
+                            <!--<img height="18" src="{{- .Language.Params.languageIcon | absURL -}}" alt="logo" aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">-->
                             {{- .Language.LanguageName | emojify -}}
                             {{- else }}
                             {{- .Lang | title -}}
