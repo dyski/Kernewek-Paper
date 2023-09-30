@@ -63,8 +63,29 @@ Ny-allaf sevel yn-fas
 War ow threys, ellas, ellas,  
 Rak Galarow!  
 
+Verse 1
+Alas, O Christ, my dear son, 
+when in great suffering I see Thee,
+Alas, for grief, why do I not fall in a swoon? 
+Through my Son, what is my state?
+
+All the time I bless Him!
+
+Alas, I know not on what spot, 
+nor yet in what place I shall abide,
+O, woe,  
+for it is wished,  
+if possible, with great sufferings to destroy me utterly!
+O woe is me!  Alas! Alas, to see my Son so shamefully used by wicked fellows!
+O Son, Thy sorrow hath slain me, so that I can scarce see, so many tears have I shed!
+Woe is me, I know not what I shall do!
+My heart has become right sick through care: hardly can I stand upon my feet.
+Alas, for my sorrow.
+
 
 2  
+
+
 Ellas, ellas! ogh, tru tru!  
 Yn ow holon ass-yu bern  
 Pan whelaf ow map jhesu  
@@ -91,31 +112,31 @@ Nep yu Arluth lun a rasl
 Govy vyth, ellas, ellas,  
 Ragos, Jhesu!  
 
-Verse 1  
-Alas, 0 Christ, my dear son, when in great suffering
-I see Thee. Alas, for grief, why do I not fall in a swoon?
-Through my Son, what is my state? All the time I bless Him!
 
-Alas, I know not on what spot, nor yet in what place I shall abide.
-O, woe, for it is wished, if possible, with great sufferings to
-destroy me utterly! 0 woe is me! Alas! Alas, to see my Son so
-shamefully used by wicked fellows! 0 Son, Thy sorrow hath
-slain me, so that I can scarce see, so many tears have I shed!
-Woe is me, I know not what I shall do! My heart has become
-right sick through care: hardly can I stand upon my feet. Alas,
-for my sorrow.
+
+
 Verse 2  
-Alas! Alas! 0, sad, sad! What care is in my heart
-when I see my Son, Jesu, with a crown of thorns about His head,
-and He the Son of God, of Power, and therewithal a rightful
-King! Feet and hands nailed fast on either side with spikes of
-iron. Alas! On the Day of Doom shalt thou have much misery
-who didst sell Him, both flesh and fell! 0 woe is me, for my
+Alas! Alas! O, sad, sad! 
+What care is in my heart
+when I see my Son, Jesu, 
+with a crown of thorns about His head,
+and He the Son of God, of Power, 
+and therewithal a rightful King! 
+Feet and hands nailed fast on either side with spikes of iron. 
+Alas! On the Day of Doom shalt thou have much misery
+who didst sell Him, 
+both flesh and fell! 
+O woe is me, for my
 dear Son, to see Him treated in the same way which now I see!
-Alas, that I might not also die, that my end might not sooner
-be on earth than the end of my Son! Well may I be sorrowful
+Alas, that I might not also die, 
+that my end might not sooner
+be on earth than the end of my Son! 
+Well may I be sorrowful
 to see my Son so ungently treated as He is; He who is the lord
-in grace abounding! Woe is me forever! Alas! Alas! for Thee, Jhesu!
+in grace abounding! 
+Woe is me forever! Alas! Alas! 
+for Thee, Jhesu!                       |
+
 
 ## Analysis of Celtic Poetic Elements in the Provided Verses
 
