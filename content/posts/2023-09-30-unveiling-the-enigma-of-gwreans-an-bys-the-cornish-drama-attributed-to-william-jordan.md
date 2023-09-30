@@ -1,6 +1,6 @@
 ---
-title: 'Unveiling the Enigma of "Gwreans an Bys": The Cornish Drama Attributed
-  to William Jordan'
+title: "Unveiling the Enigma of 'Gwreans an Bys': The Cornish Drama Attributed
+  to William Jordan"
 date: 2023-09-30T14:28:52.413Z
 categories: History
 weight: 0
