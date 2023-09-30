@@ -36,122 +36,89 @@ According to Nance, a Cornish scholar, it is within the context of the Passion P
 
 Here is the poem, as restored by Nance in Unified Cornish, offering a clear indication of the poetic value embedded in the Ordinalia cycle:
 
-I  
-Ellas! A gryst, ow map ker,  
-Yn mur bayn pan y-th-whelaf,  
-Ellas! dre guth pan yn clamder  
-Dhe'n dor prag na omwhelaf?  
-Dre ow map pyth yu ow cher?  
-Pup ur-oll y-n-benygaf!  
-Ellas! ny-won py tyller,  
-Byth moy py le, y-trygaf,  
-Eghan!  
-Rag y-fynnyr,  
-Mara kyllur  
-Gans paynys mur  
-Ow dyswul glan!  
-Ogh, govy, ellas, ellas,  
-Gweles ow map mar dhyflas  
-Gans tebel wesyon dyghtys!  
-A vap, dha guth re-m-ladhas,  
-Na allaf gweles yn-fas ·  
-Kemmys dagrow re-olys!  
-Govy, ny-won pandr 'a wraf  
-Gallas ow holon pur glaf  
-Dre brederow!  
-Ny-allaf sevel yn-fas  
-War ow threys, ellas, ellas,  
-Rak Galarow!  
-
-Verse 1
-Alas, O Christ, my dear son, 
-when in great suffering I see Thee,
-Alas, for grief, why do I not fall in a swoon? 
-Through my Son, what is my state?
-
-All the time I bless Him!
-
-Alas, I know not on what spot, 
-nor yet in what place I shall abide,
-O, woe,  
-for it is wished,  
-if possible, with great sufferings to destroy me utterly!
-O woe is me!  Alas! Alas, to see my Son so shamefully used by wicked fellows!
-O Son, Thy sorrow hath slain me, so that I can scarce see, so many tears have I shed!
-Woe is me, I know not what I shall do!
-My heart has become right sick through care: hardly can I stand upon my feet.
-Alas, for my sorrow.
-
-
-2  
-
-
-Ellas, ellas! ogh, tru tru!  
-Yn ow holon ass-yu bern  
-Pan whelaf ow map jhesu  
-Adro dh'y ben curun spern,  
-Hag ef Map Dew a vertu  
-Ha gans henna gwyr Vyghtern,  
-Treys ha dywluf a bup tu  
-Fast takkyes gans kentrow hem,  
-Ellas!  
-Y -fyth deth brus  
-Mur a anfus  
-Y gyk ha'y gnas  
-Nep a-n-gwerthas!  
-Ogh, govy rag ow map ker,  
-Dh'y weles y'n keth vaner  
-May whelaf lemmyn dyghtys!  
-Ellas, na-varwen ynweth,  
-Na-ve kensa ow deweth  
-Es dweth ow map y'n bys!  
-My a-yl bos morethek,  
-Gweles ow map mar anwhek  
-Dyghtys del yu,  
-Nep yu Arluth lun a rasl  
-Govy vyth, ellas, ellas,  
-Ragos, Jhesu!  
+| Verse 1                           | English Translation (Verse 1)           |
+| --------------------------------- | --------------------------------------- |
+| Ellas! A gryst, ow map ker,       | Alas, O Christ, my dear son,            |
+| Yn mur bayn pan y-th-whelaf,      | when in great suffering I see Thee,     |
+| Ellas! dre guth pan yn clamder    | Alas, for grief,                        |
+| Dhe'n dor prag na omwhelaf?       | why do I not fall in a swoon?           |
+| Dre ow map pyth yu ow cher?       | Through my Son, what is my state?       |
+| Pup ur-oll y-n-benygaf!           | All the time I bless Him!               |
+| Ellas! ny-won py tyller,          | Alas, I know not on what spot,          |
+| Byth moy py le, y-trygaf,         | nor yet in what place I shall abide,    |
+|                                   |                                         |
+| Eghan!                            | O, woe,                                                    |
+| Rag y-fynnyr,                     | for it is wished,                                          |
+| Mara kyllur                       | if possible,                                               |
+| Gans paynys mur                   | with great sufferings                                      |
+| Ow dyswul glan!                   | to destroy me utterly!                                     |
+|                                   |                                                            |
+| Ogh, govy, ellas, ellas,          | O woe is me! Alas! Alas,                                   |
+| Gweles ow map mar dhyflas         | to see my Son so shamefully                                |
+| Gans tebel wesyon dyghtys!        | used by wicked fellows!                                    |
+| A vap, dha guth re-m-ladhas,      | O Son, Thy sorrow hath slain me,                           |
+| Na allaf gweles yn-fas ·          | so that I can scarce see,                                  |
+| Kemmys dagrow re-olys!            | so many tears have I shed!                                 |
+|                                   |                                                            |
+| Govy, ny-won pandr 'a wraf        | Woe is me, I know not what I shall do!                     |
+| Gallas ow holon pur glaf          | My heart has become right sick                              |
+| Dre brederow!                     | through care:                                              |
+| Ny-allaf sevel yn-fas             | hardly can I stand                                         |
+| War ow threys, ellas, ellas,      | upon my feet. Alas,                                        |
+| Rak Galarow!                      | for my sorrow.                                             |
 
 
 
+| Verse 2                                | English Translation                      |
+| ------------------------------------- | ---------------------------------------- |
+| Ellas, ellas! ogh, tru tru!           | Alas! Alas! O, sad, sad!                 |
+| Yn ow holon ass-yu bern               | What care is in my heart                  |
+| Pan whelaf ow map jhesu               | when I see my Son, Jesu,                 |
+| Adro dh'y ben curun spern,           | with a crown of thorns about His head,   |
+| Hag ef Map Dew a vertu               | and He the Son of God, of Power,         |
+| Ha gans henna gwyr Vyghtern,         | and therewithal a rightful King!         |
+| Treys ha dywluf a bup tu             | Feet and hands nailed                     |
+| Fast takkyes gans kentrow hern,      | fast on either side with spikes of iron.  |
+|                                       |                                          |
+| Ellas!                               | Alas!                                    |
+| Y -fyth deth brus                     | On the Day of Doom                        |
+| Mur a anfus                          | shalt thou have much misery               |
+| Y gyk ha'y gnas                       | who didst sell Him,                       |
+| Nep a-n-gwerthas!                     | both flesh and fell!                      |
+|                                       |                                          |
+| Ogh, govy rag ow map ker,            | O woe is me, for my dear Son,             |
+| Dh'y weles y'n keth vaner             | to see Him treated in the same way        |
+| May whelaf lemmyn dyghtys!           | which now I see!                          |
+| Ellas, na-varwen ynweth,             | Alas, that I might not also die,          |
+| Na-ve kensa ow deweth                | that my end might not sooner              |
+| Es dweth ow map y'n bys!             | be on earth than the end of my Son!      |
+|                                       |                                          |
+| My a-yl bos morethek,                | Well may I be sorrowful                   |
+| Gweles ow map mar anwhek             | to see my Son so ungently treated as He is; |
+| Dyghtys del yu,                       | He who is the lord                        |
+| Nep yu Arluth lun a rasl             | in grace abounding!                       |
+| Govy vyth, ellas, ellas,              | Woe is me forever! Alas! Alas!           |
+| Ragos, Jhesu!                        | for Thee, Jhesu!                          |
 
-Verse 2  
-Alas! Alas! O, sad, sad! 
-What care is in my heart
-when I see my Son, Jesu, 
-with a crown of thorns about His head,
-and He the Son of God, of Power, 
-and therewithal a rightful King! 
-Feet and hands nailed fast on either side with spikes of iron. 
-Alas! On the Day of Doom shalt thou have much misery
-who didst sell Him, 
-both flesh and fell! 
-O woe is me, for my
-dear Son, to see Him treated in the same way which now I see!
-Alas, that I might not also die, 
-that my end might not sooner
-be on earth than the end of my Son! 
-Well may I be sorrowful
-to see my Son so ungently treated as He is; He who is the lord
-in grace abounding! 
-Woe is me forever! Alas! Alas! 
-for Thee, Jhesu!                       |
+
+
 
 
 ## Analysis of Celtic Poetic Elements in the Provided Verses
 
-The provided verses exhibit several characteristics often found in Celtic poetry, particularly in their structure, themes, and language usage:
+The given verses exhibit key features commonly seen in Celtic poetry. These elements encompass structure, themes, and language:
 
-1. **Emotional Depth**: Celtic poetry, including the verses provided, often carries deep emotions and a strong sense of lamentation. The verses are filled with expressions of sorrow, despair, and anguish, which are common themes in Celtic poetry.
+1. **Emotional Depth:** Celtic poetry, including these verses, often conveys profound emotions, emphasizing lamentation. The verses are replete with expressions of sorrow, despair, and anguish, echoing typical Celtic poetic themes.
 
-2. **Religious and Mythological References**: Celtic poetry frequently draws upon religious and mythological elements. In the verses, there are references to Christ ("map ker" or "ow map ker"), the Mater Dolorosa, and religious themes such as suffering and redemption, which align with the rich tradition of Celtic mythology and Christian influence.
+2. **Religious and Mythological References:** Celtic poetry frequently draws from religious and mythological sources. In these verses, references to figures like Christ ("map ker" or "ow map ker"), the Mater Dolorosa, and themes of suffering and redemption align with the rich blend of Celtic mythology and Christian influence.
 
-3. **Repetition and Alliteration**: Celtic poetry often employs repetition and alliteration to create a rhythmic and musical quality. In the verses, phrases like "Ellas! A gryst" and "Ogh, govy, ellas, ellas" showcase repetition for emphasis, while alliteration can be seen in phrases like "Mara kyllur" and "Gweles ow map mar dhyflas."
+3. **Repetition and Alliteration:** Celtic poetry employs repetition and alliteration to craft a rhythmic and musical quality. Phrases such as "Ellas! A gryst" and "Ogh, govy, ellas, ellas" emphasize repetition, while alliteration is evident in "Mara kyllur" and "Gweles ow map mar dhyflas."
 
-4. **Metrical Arrangement**: Celtic poetry often follows specific metrical patterns and arrangements. These verses maintain a consistent metrical structure with lines of varying lengths, contributing to their musical flow.
+4. **Metrical Arrangement:** Celtic poetry often adheres to specific metrical patterns and arrangements. These verses maintain a consistent metrical structure with lines of varying lengths, contributing to their musical flow.
 
-5. **End Rhymes**: The verses display a clear rhyming pattern at the end of each line, creating a structured and lyrical quality. Rhyming is a common feature in Celtic poetry, contributing to its musicality.
+5. **End Rhymes:** The verses feature clear rhyming patterns at the end of each line, enhancing their structured and lyrical quality. Rhyming is a frequent characteristic in Celtic poetry, contributing to its musicality.
 
-6. **Use of Cornish Language**: These verses are written in Middle Cornish, which is characteristic of Celtic literature. Celtic poetry often preserves and celebrates native languages, contributing to the preservation of cultural heritage.
+6. **Use of Cornish Language:** These verses are composed in Middle Cornish, a hallmark of Celtic literature. Celtic poetry often celebrates and preserves native languages, thereby upholding cultural heritage.
 
-While the verses share several characteristics with typical Celtic poetry, it's essential to note that Celtic poetry is a diverse tradition with variations across regions and time periods. These verses, in particular, align with the themes and stylistic elements often found in Celtic literature and contribute to the broader Celtic poetic tradition.
+While these verses share numerous characteristics with traditional Celtic poetry, it's important to recognize that Celtic poetry is a diverse tradition with regional and temporal variations. These verses align particularly well with the prevalent themes and stylistic elements often found in Celtic literature, thus enriching the broader Celtic poetic tradition.
+
