@@ -1,0 +1,9 @@
+{{ $inputID := .Get 0 }}
+{{ with $inputID }}
+<div id="searchbox">
+<input type="text" id="{{ $inputID }}" name="{{ $inputID }}" value="answer here" oninput="localStorage.setItem('{{ $inputID }}', this.value);" onchange="localStorage.setItem('{{ $inputID }}', this.value);">
+</div>
+<script>
+document.getElementById('{{ $inputID }}').value = localStorage.getItem('{{ $inputID }}');
+</script>
+{{ end }}

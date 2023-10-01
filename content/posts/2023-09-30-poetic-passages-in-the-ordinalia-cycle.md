@@ -99,26 +99,3 @@ Here is the poem, as restored by Nance in Unified Cornish, offering a clear indi
 | Nep yu Arluth lun a rasl             | in grace abounding!                       |
 | Govy vyth, ellas, ellas,              | Woe is me forever! Alas! Alas!           |
 | Ragos, Jhesu!                        | for Thee, Jhesu!                          |
-
-
-
-
-
-## Analysis of Celtic Poetic Elements in the Provided Verses
-
-The given verses exhibit key features commonly seen in Celtic poetry. These elements encompass structure, themes, and language:
-
-1. **Emotional Depth:** Celtic poetry, including these verses, often conveys profound emotions, emphasizing lamentation. The verses are replete with expressions of sorrow, despair, and anguish, echoing typical Celtic poetic themes.
-
-2. **Religious and Mythological References:** Celtic poetry frequently draws from religious and mythological sources. In these verses, references to figures like Christ ("map ker" or "ow map ker"), the Mater Dolorosa, and themes of suffering and redemption align with the rich blend of Celtic mythology and Christian influence.
-
-3. **Repetition and Alliteration:** Celtic poetry employs repetition and alliteration to craft a rhythmic and musical quality. Phrases such as "Ellas! A gryst" and "Ogh, govy, ellas, ellas" emphasize repetition, while alliteration is evident in "Mara kyllur" and "Gweles ow map mar dhyflas."
-
-4. **Metrical Arrangement:** Celtic poetry often adheres to specific metrical patterns and arrangements. These verses maintain a consistent metrical structure with lines of varying lengths, contributing to their musical flow.
-
-5. **End Rhymes:** The verses feature clear rhyming patterns at the end of each line, enhancing their structured and lyrical quality. Rhyming is a frequent characteristic in Celtic poetry, contributing to its musicality.
-
-6. **Use of Cornish Language:** These verses are composed in Middle Cornish, a hallmark of Celtic literature. Celtic poetry often celebrates and preserves native languages, thereby upholding cultural heritage.
-
-While these verses share numerous characteristics with traditional Celtic poetry, it's important to recognize that Celtic poetry is a diverse tradition with regional and temporal variations. These verses align particularly well with the prevalent themes and stylistic elements often found in Celtic literature, thus enriching the broader Celtic poetic tradition.
-
