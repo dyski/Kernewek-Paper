@@ -4,7 +4,7 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 @media print {
-    .header, .post-meta, .post-footer, .footer { display: none; } 
+    .header, .post-meta, .post-footer, .footer, .top-link { display: none; } 
     body {font: 14pt Georgia, "Times New Roman", Times, serif;
       line-height: 1.3;}
   /* Inhaltsbreite setzen, Floats und Margins aufheben */

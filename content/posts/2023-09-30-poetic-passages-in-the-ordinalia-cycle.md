@@ -3,27 +3,6 @@ title: Poetic Passages in the Ordinalia Cycle
 date: 2023-09-30T15:11:23.995Z
 categories: history
 weight: 0
-cover:
-  hidden: false
-  relative: false
-editPost:
-  URL: ""
-  Text: ""
-  appendFilePath: false
-showToc: false
-TocOpen: false
-hidemeta: false
-comments: false
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: false
-ShowBreadCrumbs: false
-ShowPostNavLinks: false
-ShowWordCount: false
-ShowRssButtonInSectionTermList: false
-UseHugoToc: false
 ---
 
 The Ordinalia cycle, while not considered spectacular as a whole, contains certain passages of exceptional poetry. In fact, it is suggested that a Cornish poem may have been borrowed by the author of "The Passion of Christ" and incorporated into the play. Let's delve into this fascinating aspect of Middle Cornish literature.

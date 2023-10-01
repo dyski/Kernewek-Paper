@@ -1,6 +1,6 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
-paginate: 5
+title: Dydhlyver
+paginate: 15
 theme: hugo-PaperMod
 
 enableInlineShortcodes: true
@@ -22,7 +22,7 @@ languages:
         languageAltTitle: English
         languageIcon: eng.jpg
         weight: 1
-        title: Title
+        title: TitleGL
         taxonomies:
           category: categories
           tag: tags
@@ -49,7 +49,7 @@ languages:
         languageAltTitle: Kernewek
         languageIcon: kw.svg
         weight: 2
-        title: KernewekTitle
+        title: GLTitleK
         taxonomies:
           category: Rannow
           tag: Taggow
@@ -93,7 +93,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Istori Kernewek"
-    author: Golowyn 
+    # author:  
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -112,7 +112,7 @@ params:
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: Profilemodetitle
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -124,27 +124,21 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Dydh da"
         Content: >
             Welcome to demo of hugo's theme PaperMod.
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. This starter supports editing posts with NetlifyCMS, login at /admin. Most other configs (including this message!) happen in config.yml in the root directory.
+            - **PaperMod** is a simple but fast and responsive theme.
 
             - Do give a 🌟 on Github !
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
         - name: Rss
           url: "index.xml"
 
     editPost:
         URL: "https://github.com/dyski/Kernewek-Paper/tree/main/content"
-        Text: "Suggest Changes" # edit text
+        Text: "✎" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # label:
