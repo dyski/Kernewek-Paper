@@ -1,0 +1,170 @@
+[
+    {
+        "Line": 1,
+        "Latin Text": "Merlinus Ambrosius",
+        "Cornish Translation": "Myrddin Emrys",
+        "Description": "Legendary prophet and bard also known as Merlin."
+    },
+    {
+        "Line": 5,
+        "Latin Text": "Britannia",
+        "Cornish Translation": "Breten Vian",
+        "Description": "Name for Britain or Brittany, derived from Celtic word meaning 'painted' or 'tattooed.'"
+    },
+    {
+        "Line": 7,
+        "Latin Text": "Brutus",
+        "Cornish Translation": "Bret",
+        "Description": "Mythical founder of Britain, descendant of Aeneas and a Trojan exile."
+    },
+    {
+        "Line": 10,
+        "Latin Text": "Gurgiuntus",
+        "Cornish Translation": "Gurciunt",
+        "Description": "Legendary king of Britain, son of Belinus, and conqueror of Denmark."
+    },
+    {
+        "Line": 13,
+        "Latin Text": "Cassibellaunus",
+        "Cornish Translation": "Casbelan",
+        "Description": "Historical king of Britain who fought against Julius Caesar's invasion."
+    },
+    {
+        "Line": 16,
+        "Latin Text": "Constantinus",
+        "Cornish Translation": "Custentin",
+        "Description": "Name of several historical and legendary kings of Britain or Brittany."
+    },
+    {
+        "Line": 19,
+        "Latin Text": "Uther Pendragon",
+        "Cornish Translation": "Uter Pendragon",
+        "Description": "Legendary king of Britain, father of King Arthur, and son of Constantine III."
+    },
+    {
+        "Line": 22,
+        "Latin Text": "Arturus",
+        "Cornish Translation": "Arthyr",
+        "Description": "Famous legendary king of Britain, known for leading Britons against the Saxons."
+    },
+    {
+        "Line": 25,
+        "Latin Text": "Cadwaladrus",
+        "Cornish Translation": "Cadwalader",
+        "Description": "Historical king of Gwynedd (Wales), descendant of King Arthur, and leader against Anglo-Saxons."
+    },
+    {
+        "Line": 28,
+        "Latin Text": "Conanus",
+        "Cornish Translation": "Conan",
+        "Description": "Name of various historical and legendary kings or princes of Brittany or Cornwall."
+    },
+    {
+        "Line": 31,
+        "Latin Text": "Eugenius",
+        "Cornish Translation": "Owain",
+        "Description": "Historical king of Strathclyde (Scotland) and leader against Anglo-Saxons."
+    },
+    {
+        "Line": 34,
+        "Latin Text": "Gildas",
+        "Cornish Translation": "Gweltas",
+        "Description": "6th-century British monk and historian who wrote about the Roman withdrawal and Saxon invasions."
+    },
+    {
+        "Line": 37,
+        "Latin Text": "Beda",
+        "Cornish Translation": "Bedas",
+        "Description": "7th-8th-century Anglo-Saxon monk and scholar known for writing about the conversion of England to Christianity."
+    },
+    {
+        "Line": 40,
+        "Latin Text": "Nennius",
+        "Cornish Translation": "Nynnyaw",
+        "Description": "9th-century British writer traditionally credited with the authorship of the Historia Brittonum."
+    },
+    {
+        "Line": 43,
+        "Latin Text": "Geoffrey Arturus",
+        "Cornish Translation": "Gaufridus Arthyr",
+        "Description": "Name of Geoffrey of Monmouth, a 12th-century British cleric famous for his Historia Regum Britanniae."
+    },
+    {
+        "Line": 46,
+        "Latin Text": "Giraldus Cambrensis",
+        "Cornish Translation": "Gerallt Cymro",
+        "Description": "Name of Gerald of Wales, a 12th-century Welsh cleric known for works on Wales and Ireland."
+    },
+    {
+        "Line": 49,
+        "Latin Text": "Alanus de Insulis",
+        "Cornish Translation": "Alan an Ynysow",
+        "Description": "Name of Alan of Lille, a 12th-century French theologian and poet."
+    },
+    {
+        "Line": 52,
+        "Latin Text": "Henricus Arturus",
+        "Cornish Translation": "Henry Arthyr",
+        "Description": "Name of Henry II, a 12th-century king of England."
+    },
+    {
+        "Line": 55,
+        "Latin Text": "Ricardus Arturus",
+        "Cornish Translation": "Richard Arthyr",
+        "Description": "Name of Richard I, a 12th-13th-century king of England."
+    },
+    {
+        "Line": 58,
+        "Latin Text": "Johannes Arturus",
+        "Cornish Translation": "Yowann Arthyr",
+        "Description": "Name of John I, a 13th-century king of England."
+    },
+    {
+        "Line": 61,
+        "Latin Text": "Alexander Arturus",
+        "Cornish Translation": "Aleksander Arthyr",
+        "Description": "Name of Alexander III, a 13th-century king of Scotland."
+    },
+    {
+        "Line": 64,
+        "Latin Text": "Edwardus Arturus",
+        "Cornish Translation": "Edowr Arthyr",
+        "Description": "Name of Edward I, a 13th-14th-century king of England."
+    },
+    {
+        "Line": 67,
+        "Latin Text": "Robertus Arturus",
+        "Cornish Translation": "Robert Arthyr",
+        "Description": "Name of Robert I, a 14th-century king of Scotland."
+    },
+    {
+        "Line": 70,
+        "Latin Text": "David Arturus",
+        "Cornish Translation": "Davydh Arthyr",
+        "Description": "Name of David II, a 14th-century king of Scotland."
+    },
+    {
+        "Line": 73,
+        "Latin Text": "Edwardus Arturus",
+        "Cornish Translation": "Edowr Arthyr",
+        "Description": "Name of Edward III, a 14th-century king of England."
+    },
+    {
+        "Line": 76,
+        "Latin Text": "Richardus Arturus",
+        "Cornish Translation": "Richard Arthyr",
+        "Description": "Name of Richard II, a 14th-15th-century king of England."
+    },
+    {
+        "Line": 79,
+        "Latin Text": "Henricus Arturus",
+        "Cornish Translation": "Henry Arthyr",
+        "Description": "Name of Henry IV, a 15th-century king of England."
+    },
+    {
+        "Line": 82,
+        "Latin Text": "Henricus Arturus",
+        "Cornish Translation": "Henry Arthyr",
+        "Description": "Name of Henry V, a 15th-century king of England."
+    }
+]
