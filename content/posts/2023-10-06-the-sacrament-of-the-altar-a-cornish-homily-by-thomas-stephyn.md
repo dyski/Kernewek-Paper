@@ -6,7 +6,7 @@ weight: 0
 cover:
   hidden: false
   relative: false
-  image: /images/uploads/_687b0931-c9c2-43ae-a19f-000e2712d09c.jpeg
+  image: ""
 editPost:
   URL: ""
   Text: ""
