@@ -26,9 +26,6 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
-Here is a blog post about the Sacrament of the Altar that was added later by another priest, Thomas Stephyn, written in markdown code:
-
-#
 The Sacrament of the Altar is a homily on the Eucharist that was written in Cornish by Thomas Stephyn, a Catholic priest and scholar, around 1576. It is attached to the Tregear Homilies, a collection of twelve sermons translated from English into Cornish by John Tregear, another Catholic priest and scholar, around 1560. The Tregear Homilies are the longest surviving prose texts in Cornish and are preserved in a manuscript that is currently held at the National Library of Wales in Aberystwyth.
 
 ## Who was Thomas Stephyn?
