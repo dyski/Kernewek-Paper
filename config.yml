@@ -1,5 +1,5 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Dydhlyver
+title: Cornish.app
 paginate: 15
 theme: hugo-PaperMod
 
@@ -22,7 +22,7 @@ languages:
         languageAltTitle: English
         languageIcon: eng.jpg
         weight: 1
-        title: TitleGL
+        title: Cornish.app
         taxonomies:
           category: categories
           tag: tags
@@ -49,7 +49,7 @@ languages:
         languageAltTitle: Kernewek
         languageIcon: kw.svg
         weight: 2
-        title: GLTitleK
+        title: Cornish.app
         taxonomies:
           category: Rannow
           tag: Taggow
@@ -126,11 +126,7 @@ params:
     homeInfoParams:
         Title: "Dydh da"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme.
-
-            - Do give a 🌟 on Github !
+            Website "proof of concept". Articles written by AI from sources found on the web. pre 2022
 
     socialIcons:
         - name: Rss
